@@ -10,7 +10,9 @@ Excel spreadsheets included with the most complete list of information for the c
 
 If anyone wants to get involved and translate the synopsis to another language please translate the Excel or XMLs with the complete list inside. Prefereably the Excel and it can be added here if there any complete translations.
 
-For each set I have included the original Excel spreadsheet with XML mapping, the exported XML that has the entire exported list, the batch tools to break the synopsis out to individual folders/files and the final product already exported for convenience. The PDF instructions are from the previous version but are still correct except a few things. 
+For each set I have included the original Excel spreadsheet with XML mapping, the exported XML that has the entire exported list, the batch tools to break the synopsis out to individual folders/files and the final product already exported for convenience. 
+
+The PDF instructions are from the previous version but are still correct except a few things. I may update them at some point.
 
 1. You need to drag the XML on to the .bat file to run it.
 2. You will need to delete some jargon from the line 2 at the top of the XML if you export your own so it just reads <synopsis_Map>. If you don't do this the .bat file will not work.
