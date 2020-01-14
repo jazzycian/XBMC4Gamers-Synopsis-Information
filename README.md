@@ -2,6 +2,8 @@
 
 Synopsis now installed via the xbmc4gamers and xbmc-emustation artwork installer scripts from within the dashboards download menu. This synopsis will work with xbmc origins also. Boot xbmc4gamers or xbmc-emustation and run the artwork installer or drop resources folders into your game folders manually. This is uploaded here for information and possible future projects by other people.
 
+The Xbox Worldwide Game Info spreadsheet is all regions of synopsis in one place. You can use this to filter and sort for a complete list of various useful information. For example, full set of custom soundtrack games, system link games, player numbers, metacritic ratings among other things. The NTSC is just NTSC, the PAL and JAP are not just exclusives and have some games that were also released in the NTSC region mixed in. Excellent resource for Xbox game information in one place that you will not find elsewhere. There are a few years work spent compiling this.
+
 Synopsis information for use with Rocky5's sublime XBMC4Gamers. These synopsis should be compatible with any XBMC 3.5.3 or above build once Rocky5's custom synopsis script and custom XBMC xbe are used. 
 
 Download the relevant zip for a HDD ready XBMC4Gamers Synopsis information setup. There is now emulator, homebrew and xbox synopsis. Transfer each resources folder to the root of your respective game/emulator folder on your Xbox or if you already have resources folders place the respective 'default.xml' in the root of your _resources folder for each title. Resources folder/file structure example can be found on Rocky5's XBMC4Gamers Github.
@@ -17,6 +19,8 @@ The PDF instructions are from the previous version but are still correct except 
 1. You need to drag the XML on to the .bat file to run it.
 2. You will need to delete some jargon from the line 2 at the top of the XML if you export your own so it just reads <synopsis_Map>. If you don't do this the .bat file will not work.
 3. In the NTSC section Zillernet won't batch out as it has brackets in the name - Zillernet (Korea). It will just be made as a default.xml beside the generated folders. Add it manually if needed.
+
+Please report if you find any errors or want to add improvements. More than welcome.
 
 Enjoy!!!
 
