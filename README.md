@@ -14,7 +14,7 @@ If anyone wants to get involved and translate the synopsis to another language p
 
 For each set I have included the original Excel spreadsheet with XML mapping, the exported XML that has the entire exported list, the batch tools to break the synopsis out to individual folders/files and the final product already exported for convenience. 
 
-The PDF instructions are from the previous version but are still correct except a few things. I may update them at some point.
+The PDF instructions are from the previous version but are still correct except a few things. I may update them at some point. I have added a PDF with additional information with regards to editing the resources.xml you export from Excel. You need to delete part of a line at the start with a website address in it that gets generated in the xml when you export. If you do not do this the batch files won't work.
 
 1. You need to drag the XML on to the .bat file to run it.
 2. You will need to delete some jargon from the line 2 at the top of the XML if you export your own so it just reads <synopsis_Map>. If you don't do this the .bat file will not work.
